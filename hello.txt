@@ -1,0 +1,18 @@
+hello atguigu! 12312asd
+<<<<<<< HEAD
+hello atguigu! zxcbnm
+hello atguigu!`
+=======
+hello atguigu! `
+hello atguigu!hot-fix`
+>>>>>>> hot-fix
+hello atguigu!`
+hello atguigu!`
+hello atguigu!`
+hello atguigu!`
+hello atguigu!`
+hello atguigu!`
+hello atguigu!`
+hello atguigu!`
+hello atguigu!`
+hello atguigu!`
