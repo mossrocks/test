@@ -7,4 +7,8 @@ package com.example.test;
  * @Created by fzl
  */
 public class hello {
+
+    public void hello() {
+        System.out.println("hello");
+    }
 }
